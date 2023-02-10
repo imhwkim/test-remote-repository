@@ -5,3 +5,6 @@ def main():
     print("hello2")
     print("hello3")
     print("hello4")
+
+def seungmin():
+    print('hello')

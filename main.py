@@ -8,3 +8,6 @@ def main():
     print("hello5")
     print("hello6")
     print("hello7")
+
+def main02():
+    print("main02")

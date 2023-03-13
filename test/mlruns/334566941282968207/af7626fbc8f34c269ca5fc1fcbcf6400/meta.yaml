@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/334566941282968207/af7626fbc8f34c269ca5fc1fcbcf6400/artifacts
+end_time: 1678674519851
+entry_point_name: ''
+experiment_id: '334566941282968207'
+lifecycle_stage: active
+run_id: af7626fbc8f34c269ca5fc1fcbcf6400
+run_name: amazing-sow-265
+run_uuid: af7626fbc8f34c269ca5fc1fcbcf6400
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678674518494
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/815a98eabb3e4c7fbc8f1e6c3c4f13cd/artifacts
+end_time: 1678682496879
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 815a98eabb3e4c7fbc8f1e6c3c4f13cd
+run_name: casual-roo-590
+run_uuid: 815a98eabb3e4c7fbc8f1e6c3c4f13cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678682495654
+status: 3
+tags: []
+user_id: root

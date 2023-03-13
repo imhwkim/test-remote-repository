@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/609429502304315887/2e1e445ccce94c3b9a46c12252696bac/artifacts
+end_time: 1678682587106
+entry_point_name: ''
+experiment_id: '609429502304315887'
+lifecycle_stage: active
+run_id: 2e1e445ccce94c3b9a46c12252696bac
+run_name: able-frog-762
+run_uuid: 2e1e445ccce94c3b9a46c12252696bac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678682585692
+status: 3
+tags: []
+user_id: root

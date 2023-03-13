@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/924981665485529672/2bc39104aa524a719e103f0f40e2bd1b/artifacts
+end_time: 1678685118143
+entry_point_name: ''
+experiment_id: '924981665485529672'
+lifecycle_stage: active
+run_id: 2bc39104aa524a719e103f0f40e2bd1b
+run_name: keras_test
+run_uuid: 2bc39104aa524a719e103f0f40e2bd1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678685008096
+status: 3
+tags: []
+user_id: root

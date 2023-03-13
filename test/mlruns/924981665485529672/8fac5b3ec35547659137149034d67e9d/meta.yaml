@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/924981665485529672/8fac5b3ec35547659137149034d67e9d/artifacts
+end_time: 1678684388522
+entry_point_name: ''
+experiment_id: '924981665485529672'
+lifecycle_stage: active
+run_id: 8fac5b3ec35547659137149034d67e9d
+run_name: bald-robin-909
+run_uuid: 8fac5b3ec35547659137149034d67e9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678684369196
+status: 3
+tags: []
+user_id: root

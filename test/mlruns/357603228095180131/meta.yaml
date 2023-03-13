@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/357603228095180131
+creation_time: 1678683326508
+experiment_id: '357603228095180131'
+last_update_time: 1678683326508
+lifecycle_stage: active
+name: lightgbm

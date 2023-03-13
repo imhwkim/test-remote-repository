@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/281a743148764d71b96b77342094615b/artifacts
+end_time: 1678690033111
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 281a743148764d71b96b77342094615b
+run_name: funny-smelt-915
+run_uuid: 281a743148764d71b96b77342094615b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678690031515
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/156805271595091735/c45e91431a084baf8f441596cb050d06/artifacts
+end_time: 1678690851726
+entry_point_name: ''
+experiment_id: '156805271595091735'
+lifecycle_stage: active
+run_id: c45e91431a084baf8f441596cb050d06
+run_name: secretive-loon-653
+run_uuid: c45e91431a084baf8f441596cb050d06
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678690850497
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/423278982172990492/c26017da6e3242a189ffdaf975d87157/artifacts
+end_time: 1678675958335
+entry_point_name: ''
+experiment_id: '423278982172990492'
+lifecycle_stage: active
+run_id: c26017da6e3242a189ffdaf975d87157
+run_name: righteous-goose-11
+run_uuid: c26017da6e3242a189ffdaf975d87157
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678675956383
+status: 3
+tags: []
+user_id: root

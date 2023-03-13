@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/337e74d63c604c359a2c9b2e623d2f65/artifacts
+end_time: 1678672059015
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 337e74d63c604c359a2c9b2e623d2f65
+run_name: debonair-grub-705
+run_uuid: 337e74d63c604c359a2c9b2e623d2f65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678672058898
+status: 4
+tags: []
+user_id: root

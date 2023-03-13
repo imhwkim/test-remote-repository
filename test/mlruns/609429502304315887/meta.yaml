@@ -1,0 +1,7 @@
+artifact_location: mlflow-artifacts:/609429502304315887
+creation_time: 1678682490410
+experiment_id: '609429502304315887'
+last_update_time: 1678682543334
+lifecycle_stage: active
+name: sklearn_logistic
+tags: {}

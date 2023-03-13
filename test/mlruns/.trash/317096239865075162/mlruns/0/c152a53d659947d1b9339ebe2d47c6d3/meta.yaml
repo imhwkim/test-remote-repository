@@ -1,0 +1,15 @@
+artifact_uri: file:///home/test/mlruns/317096239865075162/mlruns/0/c152a53d659947d1b9339ebe2d47c6d3/artifacts
+end_time: 1678672839678
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c152a53d659947d1b9339ebe2d47c6d3
+run_name: intrigued-mole-258
+run_uuid: c152a53d659947d1b9339ebe2d47c6d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678672838418
+status: 3
+tags: []
+user_id: root

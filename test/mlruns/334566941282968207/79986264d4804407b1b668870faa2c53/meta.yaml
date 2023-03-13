@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/334566941282968207/79986264d4804407b1b668870faa2c53/artifacts
+end_time: 1678674530004
+entry_point_name: ''
+experiment_id: '334566941282968207'
+lifecycle_stage: active
+run_id: 79986264d4804407b1b668870faa2c53
+run_name: mercurial-vole-50
+run_uuid: 79986264d4804407b1b668870faa2c53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678674528688
+status: 3
+tags: []
+user_id: root

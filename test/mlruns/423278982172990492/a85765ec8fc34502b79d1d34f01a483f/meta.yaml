@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/423278982172990492/a85765ec8fc34502b79d1d34f01a483f/artifacts
+end_time: 1678675997754
+entry_point_name: ''
+experiment_id: '423278982172990492'
+lifecycle_stage: active
+run_id: a85765ec8fc34502b79d1d34f01a483f
+run_name: bemused-midge-453
+run_uuid: a85765ec8fc34502b79d1d34f01a483f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678675996418
+status: 3
+tags: []
+user_id: root

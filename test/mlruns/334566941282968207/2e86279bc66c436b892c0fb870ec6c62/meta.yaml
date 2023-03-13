@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/334566941282968207/2e86279bc66c436b892c0fb870ec6c62/artifacts
+end_time: 1678674504385
+entry_point_name: ''
+experiment_id: '334566941282968207'
+lifecycle_stage: active
+run_id: 2e86279bc66c436b892c0fb870ec6c62
+run_name: amazing-sloth-599
+run_uuid: 2e86279bc66c436b892c0fb870ec6c62
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678674503034
+status: 3
+tags: []
+user_id: root

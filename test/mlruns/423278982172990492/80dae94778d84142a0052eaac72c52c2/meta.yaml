@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/423278982172990492/80dae94778d84142a0052eaac72c52c2/artifacts
+end_time: 1678674951318
+entry_point_name: ''
+experiment_id: '423278982172990492'
+lifecycle_stage: active
+run_id: 80dae94778d84142a0052eaac72c52c2
+run_name: marvelous-snipe-622
+run_uuid: 80dae94778d84142a0052eaac72c52c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678674927729
+status: 3
+tags: []
+user_id: root

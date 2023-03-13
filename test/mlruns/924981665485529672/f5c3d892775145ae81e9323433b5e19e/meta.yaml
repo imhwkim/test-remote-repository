@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/924981665485529672/f5c3d892775145ae81e9323433b5e19e/artifacts
+end_time: 1678684354175
+entry_point_name: ''
+experiment_id: '924981665485529672'
+lifecycle_stage: active
+run_id: f5c3d892775145ae81e9323433b5e19e
+run_name: aged-mare-133
+run_uuid: f5c3d892775145ae81e9323433b5e19e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678684346434
+status: 3
+tags: []
+user_id: root

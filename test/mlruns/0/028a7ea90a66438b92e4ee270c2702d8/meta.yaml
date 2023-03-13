@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/028a7ea90a66438b92e4ee270c2702d8/artifacts
+end_time: 1678673196876
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 028a7ea90a66438b92e4ee270c2702d8
+run_name: sincere-ant-11
+run_uuid: 028a7ea90a66438b92e4ee270c2702d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678673195554
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/156805271595091735/a19f2236c22a491390a4a72a9d8468da/artifacts
+end_time: 1678690637467
+entry_point_name: ''
+experiment_id: '156805271595091735'
+lifecycle_stage: active
+run_id: a19f2236c22a491390a4a72a9d8468da
+run_name: upbeat-hen-831
+run_uuid: a19f2236c22a491390a4a72a9d8468da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678690636078
+status: 3
+tags: []
+user_id: root

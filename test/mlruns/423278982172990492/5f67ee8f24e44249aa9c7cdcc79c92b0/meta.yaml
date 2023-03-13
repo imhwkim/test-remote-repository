@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/423278982172990492/5f67ee8f24e44249aa9c7cdcc79c92b0/artifacts
+end_time: 1678675909319
+entry_point_name: ''
+experiment_id: '423278982172990492'
+lifecycle_stage: active
+run_id: 5f67ee8f24e44249aa9c7cdcc79c92b0
+run_name: luminous-flea-717
+run_uuid: 5f67ee8f24e44249aa9c7cdcc79c92b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678675902306
+status: 3
+tags: []
+user_id: root

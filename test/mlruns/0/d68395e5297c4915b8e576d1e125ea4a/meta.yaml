@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d68395e5297c4915b8e576d1e125ea4a/artifacts
+end_time: 1678673936002
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d68395e5297c4915b8e576d1e125ea4a
+run_name: agreeable-loon-903
+run_uuid: d68395e5297c4915b8e576d1e125ea4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678673934346
+status: 3
+tags: []
+user_id: root

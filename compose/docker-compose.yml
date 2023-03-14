@@ -1,0 +1,14 @@
+version: "3"
+services:
+    mlflow-docker:
+        container_name : mlflow-docker
+        image : mlflow-docker
+        restart : unless-stopped
+        build:
+            context: .
+            dockerfile : Dockerfile
+        ports:
+            - "5050:5050"
+        volumes:
+            - /home/compose
+        entrypoint: mlflow server -h 0.0.0.0 -p 5050
